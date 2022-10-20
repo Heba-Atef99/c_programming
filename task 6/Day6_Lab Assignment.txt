@@ -1,0 +1,16 @@
+Day 6:
+======
+
+Answer the following questions:
+--------------------------------
+
+1) C Program to swap 2 integer values. (Swap function, calling by address)
+ 
+2) Input and Output from Array using pointers:
+  C Program that have an Array of integers, read array data from user, Ptr -> Arr, print that array using Ptr.
+ (try to use "Array Notation while reading data" and "Pointer notation while printing data")
+
+3) Power (Recursion). 
+
+
+4)Line Editor...
